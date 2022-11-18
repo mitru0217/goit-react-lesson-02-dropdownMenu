@@ -23,5 +23,6 @@
 .Dropdown__toggle:hover {
     cursor: pointer;
     background: teal;
+    color: white;
     border-radius: 50%;
 }
